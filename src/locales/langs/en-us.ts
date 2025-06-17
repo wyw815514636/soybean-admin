@@ -166,7 +166,21 @@ const local: App.I18n.Schema = {
     404: 'Page Not Found',
     500: 'Server Error',
     'iframe-page': 'Iframe',
-    home: 'Home'
+    home: 'Home',
+    exception: 'Exception',
+    exception_403: '403',
+    exception_404: '404',
+    exception_500: '500',
+    document: 'Document',
+    document_project: 'Project Document',
+    'document_project-link': 'Project Document(External Link)',
+    document_vue: 'Vue Document',
+    document_vite: 'Vite Document',
+    document_unocss: 'UnoCSS Document',
+    document_naive: 'Naive UI Document',
+    'document_pro-naive': 'Pro Naive UI Document',
+    document_antd: 'Ant Design Vue Document',
+    document_alova: 'Alova Document'
   },
   page: {
     login: {

@@ -166,7 +166,21 @@ const local: App.I18n.Schema = {
     404: '页面不存在',
     500: '服务器错误',
     'iframe-page': '外链页面',
-    home: '首页'
+    home: '首页',
+    exception: '异常页',
+    exception_403: '403',
+    exception_404: '404',
+    exception_500: '500',
+    document: '文档',
+    document_project: '项目文档',
+    'document_project-link': '项目文档(外链)',
+    document_vue: 'Vue文档',
+    document_vite: 'Vite文档',
+    document_unocss: 'UnoCSS文档',
+    document_naive: 'Naive UI文档',
+    'document_pro-naive': 'Pro Naive UI文档',
+    document_antd: 'Ant Design Vue文档',
+    document_alova: 'Alova文档'
   },
   page: {
     login: {
